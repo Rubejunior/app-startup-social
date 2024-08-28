@@ -1,0 +1,15 @@
+{
+    "name": "startup-social-app",
+    "version": "1.0.0",
+    "description": "Simple app for managing social startups",
+    "main": "app.js",
+    "scripts": {
+      "start": "node src/app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "author": "Rubemar Sabóia",
+    "license": "MIT"
+  }
+  
